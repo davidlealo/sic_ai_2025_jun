@@ -205,6 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+=======
 
 
 chapterExercise/Chapter7/GoogleNews-vectors-negative300.bin
+
+limpiar_widgets.py
+/04pln/limpiar_widgets.py
+>>>>>>> upstream/main

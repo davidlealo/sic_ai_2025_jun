@@ -1,5 +1,4 @@
-# Repositorio de SIC Chile 2025: Inteligencia Artificial
-
+# Repositorio del Curso SIC 2025 desde Junio a Agosto 
 ## Sobre el curso
 
 **Nombre del curso:** SIC AI 2025 Chile  
